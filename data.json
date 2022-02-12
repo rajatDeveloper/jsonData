@@ -35,7 +35,7 @@
         "musicList": [
             {
                 "id": 1,
-                "name": "music_1",
+                "name": "music_2_1",
                 "img": "assets/img/pic2.png",
                 "audio":"https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
             },
@@ -62,7 +62,7 @@
         "musicList": [
             {
                 "id": 1,
-                "name": "music_1",
+                "name": "music_3_1",
                 "img": "assets/img/pic2.png",
                 "audio":"https://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
             },
