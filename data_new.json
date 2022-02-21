@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "rating": "4.5",
+        "title": "Astro Therapy",
+        "text": "",
+        "img": "https://channelpro.in/audio_therapy/assets/images/planet_banner.jpg",
+        "musicList": [
+            {
+                "id": 1,
+                "name": "Jupiter",
+                "img": "https://channelpro.in/audio_therapy/assets/images/1.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/jupiter.mp3"
+            },
+            {
+                "id": 2,
+                "name": "Mars",
+                "img": "https://channelpro.in/audio_therapy/assets/images/2.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/mars.mp3"
+            },
+            {
+                "id": 3,
+                "name": "Mercury",
+                "img": "https://channelpro.in/audio_therapy/assets/images/3.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/mercury.mp3"
+            },
+            {
+                "id": 4,
+                "name": "Moon",
+                "img": "https://channelpro.in/audio_therapy/assets/images/4.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/moon.mp3"
+            },
+            {
+                "id": 5,
+                "name": "Pluto",
+                "img": "https://channelpro.in/audio_therapy/assets/images/5.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/pluto.mp3"
+            },
+            {
+                "id": 6,
+                "name": "Saturn",
+                "img": "https://channelpro.in/audio_therapy/assets/images/6.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/saturn.mp3"
+            },
+            {
+                "id": 7,
+                "name": "Sun",
+                "img": "https://channelpro.in/audio_therapy/assets/images/7.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/sun.mp3"
+            },
+            {
+                "id": 8,
+                "name": "Uranus",
+                "img": "https://channelpro.in/audio_therapy/assets/images/8.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/uranus.mp3"
+            },
+            {
+                "id": 9,
+                "name": "Venus",
+                "img": "https://channelpro.in/audio_therapy/assets/images/9.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/astro_therapy/venus.mp3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "rating": "4.5",
+        "title": "Brain Therapy",
+        "text": "",
+        "img": "https://channelpro.in/audio_therapy/assets/images/brain_banner.jpg",
+        "musicList": [
+            {
+                "id": 1,
+                "name": "Brain Massage",
+                "img": "https://channelpro.in/audio_therapy/assets/images/10.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/brain_therapy/brain_massage.mp3"
+            },
+            {
+                "id": 2,
+                "name": "Brain Massage New",
+                "img": "https://channelpro.in/audio_therapy/assets/images/11.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/brain_therapy/brain_massage1.mp3"
+            },
+            {
+                "id": 3,
+                "name": "Brain Massage Relax",
+                "img": "https://channelpro.in/audio_therapy/assets/images/12.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/brain_therapy/brain_massage2.mp3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "rating": "4.5",
+        "title": "Chakra Therapy",
+        "text": "",
+        "img": "https://channelpro.in/audio_therapy/assets/images/chakra_banner.jpg",
+        "musicList": [
+            {
+                "id": 1,
+                "name": "Muladhara Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/13.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/1_muladhara_chakra.mp3"
+            },
+            {
+                "id": 2,
+                "name": "Svadhistana Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/14.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/2_svadhistana_chakra.mp3"
+            },
+            {
+                "id": 3,
+                "name": "Manipura Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/15.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/3_manipura_chakra.mp3"
+            },
+            {
+                "id": 4,
+                "name": "Anahata Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/16.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/4_anahata_chakra.mp3"
+            },
+            {
+                "id": 5,
+                "name": "Vishuddha Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/17.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/5_vishuddha_chakra.mp3"
+            },
+            {
+                "id": 6,
+                "name": "Ajna Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/18.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/6_ajna_chakra.mp3"
+            },
+            {
+                "id": 7,
+                "name": "Sahasrara Chakra",
+                "img": "https://channelpro.in/audio_therapy/assets/images/19.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/chakra_therapy/7_sahasrara_chakra.mp3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "rating": "4.5",
+        "title": "UA3P Music Therapy",
+        "text": "",
+        "img": "https://channelpro.in/audio_therapy/assets/images/other_banner.jpg",
+        "musicList": [
+            {
+                "id": 1,
+                "name": "Automatic Attraction",
+                "img": "https://channelpro.in/audio_therapy/assets/images/20.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/automatic_attraction.mp3"
+            },
+            {
+                "id": 2,
+                "name": "Be Disciplined",
+                "img": "https://channelpro.in/audio_therapy/assets/images/21.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/be_disciplined.mp3"
+            },
+            {
+                "id": 3,
+                "name": "BLOSSOM RELATIONSHIP",
+                "img": "https://channelpro.in/audio_therapy/assets/images/22.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/blossom_relationship.mp3"
+            },
+            {
+                "id": 4,
+                "name": "CONFIDENCE BOOST new ",
+                "img": "https://channelpro.in/audio_therapy/assets/images/23.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/confidence_boost.mp3"
+            },
+            {
+                "id": 5,
+                "name": "FASTER HEALING",
+                "img": "https://channelpro.in/audio_therapy/assets/images/24.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/faster_healing.mp3"
+            },
+            {
+                "id": 6,
+                "name": "IMPROVE MEMORY",
+                "img": "https://channelpro.in/audio_therapy/assets/images/25.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/improve_memory.mp3"
+            },
+            {
+                "id": 7,
+                "name": "INCREASE CONCENTRATION",
+                "img": "https://channelpro.in/audio_therapy/assets/images/26.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/increase_concentration.mp3"
+            },
+            {
+                "id": 8,
+                "name": "INCREASE HAPPYNESS",
+                "img": "https://channelpro.in/audio_therapy/assets/images/27.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/increase_happyness.mp3"
+            },
+            {
+                "id": 9,
+                "name": "KICK LIQOUR",
+                "img": "https://channelpro.in/audio_therapy/assets/images/28.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/kick_liqour.mp3"
+            },
+            {
+                "id": 10,
+                "name": "MAKE MONEY",
+                "img": "https://channelpro.in/audio_therapy/assets/images/29.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/make_money.mp3"
+            },
+            {
+                "id": 11,
+                "name": "MAXIMUM RELAXATION",
+                "img": "https://channelpro.in/audio_therapy/assets/images/30.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/maximum_relaxation.mp3"
+            },
+            {
+                "id": 12,
+                "name": "NO FEAR",
+                "img": "https://channelpro.in/audio_therapy/assets/images/31.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/no_fear.mp3"
+            },
+            {
+                "id": 13,
+                "name": "POWERFUL PROTECTION SHEILD",
+                "img": "https://channelpro.in/audio_therapy/assets/images/32.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/powerful_protection_sheild.mp3"
+            },
+            {
+                "id": 14,
+                "name": "QUIT ADDICTION",
+                "img": "https://channelpro.in/audio_therapy/assets/images/33.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/quit_addiction.mp3"
+            },
+            {
+                "id": 15,
+                "name": "QUIT OVEREATING",
+                "img": "https://channelpro.in/audio_therapy/assets/images/34.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/quit_overeating.mp3"
+            },
+            {
+                "id": 16,
+                "name": "SELF ESTEEM BOOST",
+                "img": "https://channelpro.in/audio_therapy/assets/images/35.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/self_esteem_boost.mp3"
+            },
+            {
+                "id": 17,
+                "name": "SLEEP BETTER",
+                "img": "https://channelpro.in/audio_therapy/assets/images/36.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/sleep_better.mp3"
+            },
+            {
+                "id": 18,
+                "name": "STRESS BUSTER",
+                "img": "https://channelpro.in/audio_therapy/assets/images/37.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/stress_buster.mp3"
+            },
+            {
+                "id": 19,
+                "name": "THINK POSITIVE",
+                "img": "https://channelpro.in/audio_therapy/assets/images/38.jpg",
+                "audio":"https://channelpro.in/audio_therapy/assets/audio/ua3p_music_therapy/think_positive.mp3"
+            }
+        ]
+    }
+]
